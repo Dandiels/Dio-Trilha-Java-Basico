@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Usuario
 {
     public static Scanner leia = new Scanner(System.in);
-    public static void main(String[] args) throws Exception
+    public static void main(String[] args)
     {
         SmartTV smartTV = new SmartTV();
 
